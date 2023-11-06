@@ -1,4 +1,4 @@
-# trimble-id-sdk-docs-for-java
+# trimble-id
 Trimble Identity SDK for Java
 
 📚 [Documentation](#documentation) - 🚀 [Getting Started](#getting-started) - 💬 [Support](#support)
