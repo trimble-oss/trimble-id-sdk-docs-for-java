@@ -41,10 +41,6 @@ Configure the well-known URL endpoint is used to retrieve the authorization, tok
 
 This endpoint provider is used to provide a fixed set of endpoints.
 
-## Fixed Endpoint Provider
-
-This endpoint provider is used to provide a fixed set of endpoints.
-
 ### Usage
 ```java
 import com.trimble.id.FixedEndpointProvider;
