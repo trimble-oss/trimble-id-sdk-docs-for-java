@@ -43,7 +43,6 @@ To register your application in Trimble Developer Console:
     | Field       | Description |
     | ----------- | ----------- |
     | Name        | Name of your application                    |
-    | Display Name| Provide a display name of the application.  |
     | Description | Provide a description for the application.  |
 
 4. Configure Grant Type and Token preferences of your application choice.
@@ -70,4 +69,4 @@ To provide feedback or report a bug, please [raise an issue on our issue tracker
 
 ## <a name="support">Support</a>
 
-Send email to [cloudplatform_support@trimble.com](mailto:cloudplatform_support@trimble.com)
+Send email to [support@trimble.com](mailto:support@trimble.com)
