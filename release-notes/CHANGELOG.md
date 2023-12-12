@@ -1,3 +1,7 @@
+# 1.0.1 (2023-12-12)
+
+Security vulnerability fixes
+
 # 1.0.0 (2023-11-06)
 
 Initial stable version of trimble-id client library
