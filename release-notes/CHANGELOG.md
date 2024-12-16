@@ -1,3 +1,11 @@
+# 1.0.2 (2024-12-16)
+
+- Refactored BearerTokenHttpClientProvider:
+    - The BearerTokenHttpClientProvider class has been refactored to improve the handling of bearer tokens for HTTP client requests.
+
+- Added Response Class:
+    - A new Response class has been introduced to provide a more structured and consistent way to manage API responses, including status codes, headers, and response times.
+
 # 1.0.1 (2023-12-12)
 
 Security vulnerability fixes

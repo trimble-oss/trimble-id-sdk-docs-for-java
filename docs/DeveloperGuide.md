@@ -132,3 +132,15 @@ import com.trimble.id.ValidatedClaimsetProvider;
 ValidatedClaimsetProvider claimsetProvider = new ValidatedClaimsetProvider(keysetProvider);
 JWTClaimsSet claimset = claimsetProvider.retrieveClaimset(idToken).get();
 ```
+
+## BearerToken HttpClientProvider
+
+It is possible to use the trimble-id library to retrieve an HttpClient with the appropriate authorization header set. This can be used to make requests to the Trimble Cloud Core Platform APIs.
+
+### Usage
+```java
+import com.trimble.id.BearerTokenHttpClientProvider;
+
+BearerTokenHttpClientProvider httpClientProvider = new BearerTokenHttpClientProvider(tokenProvider, baseUri);
+HttpClient httpClient = this.httpClientProvider.retrieveClient().get();
+```
