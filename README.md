@@ -6,6 +6,7 @@ Trimble Identity SDK for Java
 ## <a name="documentation">Documentation</a>
 
 - [Developer guide](https://github.com/trimble-oss/trimble-id-sdk-docs-for-java/blob/main/docs/DeveloperGuide.md) - Our Dev guide to work with authentication grant types and its providers.
+- [Reference documentation](https://github.com/trimble-oss/trimble-id-sdk-docs-for-java/blob/main/reference-guide) - Our code reference documentation generated from code comments.
 - [Samples](https://github.com/trimble-oss/trimble-id-sdk-docs-for-java/blob/main/samples) - a code guided samples for supporeted grant type token providers.
 - [Release Notes](https://github.com/trimble-oss/trimble-id-sdk-docs-for-java/blob/main/release-notes/CHANGELOG.md) - release notes about trimble-id client library.
 
