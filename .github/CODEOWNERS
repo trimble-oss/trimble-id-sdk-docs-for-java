@@ -5,17 +5,14 @@
 # Default owners for everything in the repo
 *                       @trimble-oss/platform-sdk-maintainers
 
-# Core SDK
-/docs/core/             @trimble-oss/platform-sdk-maintainers
-/release-notes/core/    @trimble-oss/platform-sdk-maintainers
+# Docs
+/docs/                  @trimble-oss/platform-sdk-maintainers
 
-# Desktop SDK
-/docs/desktop/          @trimble-oss/platform-sdk-maintainers
-/release-notes/desktop/ @trimble-oss/platform-sdk-maintainers
+# Reference Guide
+/reference-guide/       @trimble-oss/platform-sdk-maintainers
 
-# MAUI SDK
-/docs/maui/             @trimble-oss/platform-sdk-maintainers
-/release-notes/maui/    @trimble-oss/platform-sdk-maintainers
+# Release Notes
+/release-notes/         @trimble-oss/platform-sdk-maintainers
 
 # Samples
 /samples/               @trimble-oss/platform-sdk-maintainers
