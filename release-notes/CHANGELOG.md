@@ -1,3 +1,12 @@
+# 1.1.1 (2026-07-16)
+
+Improvements:
+- Added HTTP/2 keep-alive pings to improve connection reliability behind load balancers.
+  
+Bug Fixes:
+- Preserved requestId and HTTP status code in TCPServiceException when response body read fails after headers are received.
+
+
 # 1.1.0 (2026-02-26)
 
 Added Proxy Authentication Support:
